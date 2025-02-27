@@ -8,7 +8,7 @@ A collection of mini React projects built to improve my skills in frontend devel
 
 ## 🌐 Live Demo
 
-Check out the live demo here: [React Minor Projects](https://react-minor-projects.vercel.app)
+Check out the live demo here: [React Minor Projects](https://react-minor-projects-five.vercel.app/)
 
 ## ✨ Featured Projects
 
