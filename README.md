@@ -6,7 +6,7 @@ A collection of mini React projects built to improve my skills in frontend devel
   <img src="/api/placeholder/800/400" alt="React Minor Projects Banner" />
 </p>
 
-## 🌐 Live Demo
+## 🌐 Live 
 
 Check out the live demo here: [React Minor Projects](https://react-minor-projects-five.vercel.app/)
 
